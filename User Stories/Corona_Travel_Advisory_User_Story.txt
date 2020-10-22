@@ -2,9 +2,15 @@
 
 Covid travel advisory:
 
-As an avid traveler\ulnone , I want to be able to quickly look up whether it is safe to travel to a country so that I can prepare for my travel plans accordingly.
+User Story:
+
+As an avid traveler, I want to be able to quickly look up whether it is safe to travel to a country so that I can prepare for my travel plans accordingly.
+
+Description:
 
 If everything goes right, the user should immediately reach the interactive map and check the different countries to see which countries they can travel to. Each country will show the rating of safety and whether or not travel is allowed. Since our website doesn't require any user inputs, the number of possible failures is close to zero; as long as the website runs properly and doesn't crash, nothing should go wrong.
+
+
 
 If the traveler wants to know more details about Covid-19 deaths, confirmed cases, number of people hospitalized, etc..., please refer to the Coronavirus Statistics user story.
 
