@@ -3,11 +3,11 @@ Members: Zhan Hao Xu, Sudan Wang, Zihao Wang, Weldon Yang, Ruoqi Shi
 Coronavirus News
 
 
-As a business professional\ulnone , I want to be aware of the status from news and how covid affects industries and businesses in each country so I can financially plan and invest properly.
+As a business professional, I want to be aware of the status from news and how covid affects industries and businesses in each country so I can financially plan and invest properly.
 
 
 
- If everything goes right, the business professional should immediately reach the interactive map. For each country present on the interactive map, the country that this business professional chose to view should display Corona-Virus related news for this specific country.\'a0
+ If everything goes right, the business professional should immediately reach the interactive map. For each country present on the interactive map, the country that this business professional chose to view should display Corona-Virus related news for this specific country.
 
 Since the business professional simply gets a view of the data, the only possible error that can occur will be the interactive map website crashing or the social media sites not working. Thus, as long as both are working, everything should proceed smoothly.
 
