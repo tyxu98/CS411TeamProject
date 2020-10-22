@@ -1,0 +1,49 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\froman\fcharset0 Times-Roman;\f2\fswiss\fcharset0 Arial-BoldMT;
+\f3\fswiss\fcharset0 Arial-ItalicMT;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl440\partightenfactor0
+
+\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Members: Zhan Hao Xu, Sudan Wang, Zihao Wang, Weldon Yang, Ruoqi Shi
+\f1\fs24 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \
+\pard\pardeftab720\sl400\partightenfactor0
+
+\f2\b\fs29\fsmilli14667 \cf2 Covid travel advisory\'a0
+\f1\b0\fs24 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \
+\pard\pardeftab720\sl400\partightenfactor0
+
+\f3\i\fs29\fsmilli14667 \cf2 As an \ul avid traveler\ulnone , I want to be able to quickly look up whether it is safe to travel to a country so that I can prepare for my travel plans accordingly.\'a0
+\f1\i0\fs24 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \
+\pard\pardeftab720\sl400\partightenfactor0
+
+\f0\fs29\fsmilli14667 \cf2 If everything goes right, the user should immediately reach the interactive map and check the different countries to see which countries they can travel to. Each country will show the rating of safety and whether or not travel\'a0 is allowed. Since our website doesn\'92t require any user inputs, the number of possible failures is close to zero; as long as the website runs properly and doesn\'92t crash, nothing should go wrong.\'a0
+\f1\fs24 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \
+\pard\pardeftab720\sl400\partightenfactor0
+
+\f0\fs29\fsmilli14667 \cf2 If the traveler wants to know more details about Covid-19 deaths, confirmed cases, number of people hospitalized, etc\'85, please refer to the Coronavirus Statistics user story.\'a0
+\f1\fs24 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \
+\pard\pardeftab720\sl400\partightenfactor0
+
+\f0\fs29\fsmilli14667 \cf2 If the traveler wants to share information, please check the Sharing Information user story.
+\f1\fs24 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \
+\pard\pardeftab720\sl400\partightenfactor0
+
+\f0\fs29\fsmilli14667 \cf2 If the traveler wants to know more about news coverage about Coronavirus, please refer to the Coronavirus News user story
+\f1\fs24 \
+}
