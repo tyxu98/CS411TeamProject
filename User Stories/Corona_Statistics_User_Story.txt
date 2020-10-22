@@ -5,4 +5,13 @@ Members: Zhan Hao Xu, Sudan Wang, Zihao Wang, Weldon Yang, Ruoqi Shi
 As a student who wants to attend university, I want to know the death, positive, and recovery rate in each country to be safer.
 
 
-If everything goes right, the student should immediately reach the interactive map and check all the coronavirus information for a specific country. Information about death, hospitalized, confirmed cases, and so on, will be shown on the page.Since our website does not require inputs from the student, the number of errors should be approximately zero. An error might happen only if the website is crashed.If the student wants to share their findings about coronavirus information, please refer to the Sharing Information User Story as all information related to this topic are documented there.If a student wants to know about the news about the country he/she searched, please refer to Coronavirus News User Story.If a student wants to travel to that country, please refer to the Coronavirus Travel Advisory User Story.If the student wants to share what he/she finds, please refer to the Sharing Information User Story.
+If everything goes right, the student should immediately reach the interactive map and check all the coronavirus information for a specific country. Information about death, hospitalized, confirmed cases, and so on, will be shown on the page.
+
+Since our website does not require inputs from the student, the number of errors should be approximately zero. An error might happen only if the website is crashed.If the student wants to share their findings about coronavirus information, please refer to the Sharing Information User Story as all information related to this topic are documented there.
+
+If a student wants to know about the news about the country he/she searched, please refer to Coronavirus News User Story.
+
+If a student wants to travel to that country, please refer to the Coronavirus Travel Advisory User Story.
+
+
+If the student wants to share what he/she finds, please refer to the Sharing Information User Story.
