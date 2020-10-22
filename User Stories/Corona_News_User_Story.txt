@@ -14,6 +14,6 @@ Since the business professional simply gets a view of the data, the only possibl
 
 If the business professional wants to share what he/she finds, please refer to the Sharing Information User Story as all information relating to this topic has been documented there.
 
-If the business professional wants to know a country\'92s Coronavirus statistics, please refer to Coronavirus Statistics User Story as all information relating to this topic has been documented there.
+If the business professional wants to know a country's Coronavirus statistics, please refer to Coronavirus Statistics User Story as all information relating to this topic has been documented there.
 
 If the business professional wants to obtain information regarding travelling between countries, please refer to Corona-Virus Travel Advisory User Story as all information relating to this topic has been documented there.
