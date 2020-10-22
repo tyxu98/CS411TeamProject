@@ -2,8 +2,13 @@
 Members: Zhan Hao Xu, Sudan Wang, Zihao Wang, Weldon Yang, Ruoqi Shi
 
 
+
+
+User Story:
+
 As a student who wants to attend university, I want to know the death, positive, and recovery rate in each country to be safer.
 
+Description:
 
 If everything goes right, the student should immediately reach the interactive map and check all the coronavirus information for a specific country. Information about death, hospitalized, confirmed cases, and so on, will be shown on the page.
 
