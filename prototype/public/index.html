@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>COVID-19</title>
+</head>
+<body>
+Click the button below for information about total confirmed cases in global!
+<form method = "get" action = "http://localhost:3000/current">
+    <button type = "submit"> Global </button>
+</form>
+
+Type in the country code and click the button below for information about total confirmed cases in country!
+<form method = "post" action = "http://localhost:3000/current">
+    <label> Country: </label> <input type = "text" name = "countryCode"> <br/>
+    <button type = "submit"> Submit</button>
+</form>
+</body>
+</html>
