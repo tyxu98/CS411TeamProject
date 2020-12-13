@@ -1,0 +1,3 @@
+Index: index page of prototype. The first button links to the global confirmed cases. The second button links to the confirmed cases of a certain country.
+Global: Shows the confirmed cases in global
+Country_us: Here we use US as an example. If user type in US(country code) and click the submit button, our prototype will return the total confirmed cases in US. 
