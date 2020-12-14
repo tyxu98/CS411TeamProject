@@ -1,0 +1,13 @@
+ Members: Zhan Hao Xu, Sudan Wang, Zihao Wang, Weldon Yang, Ruoqi Shi
+
+As a concerned individual, I want to be aware of the status of conrona virus worldwide to see the state the world is in.
+
+ If everything goes right, the concerned individual will be able to check the confirmed cases worldwide by clicking a button.
+
+ Since the concerned individual simply gets a view of the data, the only possible error that can occur will be the website crashing or the API displaying the statistics stops working.
+
+ If the concerned individual wants to share what he/she finds, please refer to the Sharing Information User Story as all information relating to this topic has been documented there.
+
+ If the concerned individual wants to know a country's Coronavirus statistics, please refer to Coronavirus Statistics User Story as all information relating to this topic has been documented there.
+
+If the concerned individual wants to know the CoronaVirus Statistics by state, please refer to Coronavirus stats by state User-Story.

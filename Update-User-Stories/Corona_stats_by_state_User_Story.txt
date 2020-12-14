@@ -1,0 +1,12 @@
+
+As a concerned US citizen/someone who goes to school aboard in the US, I want to be aware of the status of conrona virus by state to make preparation once I arrive in the given state.
+
+ If everything goes right, the concerned US citizen/someone who goes to school aboard in the US will be able to check the confirmed cases by state by typing in the state name and pressing the submit button.
+
+ Since the concerned US citizen/someone who goes to school aboard in the US simply gets a view of the darta, the only possible error that can occur will be the website crashing or the API displaying the statistics stops working.
+
+ If the concerned US citizen/someone who goes to school aboard in the US wants to share what he/she finds, please refer to the Sharing Information User Story as all information relating to this topic has been documented there.
+
+ If the concerned US citizen/someone who goes to school aboard in the US wants to know a country's Coronavirus statistics, please refer to Coronavirus Statistics User Story as all information relating to this topic has been documented there.
+
+ If the concerned US citizen/someone who goes to school aboard in the US wants to know the global ConronaVirus Statistics, please refer to Coronavirus stats global User-Story.
