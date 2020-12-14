@@ -9,13 +9,13 @@
 <body>
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0&appId=409038137202075&autoLogAppEvents=1" nonce="85QVOnN0"></script>
 
-    Click the button below for information about total confirmed cases in global!
+    Click the button below for information about total confirmed cases worldwide!
     <form method="GET" action="http://localhost:3000/global">
         <button type="submit"> Global </button>
     </form>
 
     <br />
-    Type in the country code and click the button below for information about total confirmed cases in country!
+    Type in a country code and click the button below for information about total confirmed cases in that country!
     <form method="POST" action="http://localhost:3000/country">
         <label> Country: </label> <input type="text" name="country"> <br />
         <button type="submit"> Submit</button>
