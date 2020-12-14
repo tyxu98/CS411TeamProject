@@ -1,0 +1,24 @@
+Members: Zhan Hao Xu, Sudan Wang, Zihao Wang, Weldon Yang, Ruoqi Shi
+
+Sharing Information
+
+
+User Story: 
+
+As a concerned individual, I want to share what I found so other people will have a better understanding of the current situation we are in.
+
+
+description:
+
+This concerned individual should be able to sign in their social media account, for which they will be redirected to a sign- in page that is owned by a third party that isn\'92t controlled by our website.
+
+
+If something goes wrong, it will be out of our control as we do not own the web application owned by the third party company. Thus, the feature will be disabled for the time the third party web application is down.
+
+
+
+If the concerned individual wants to know a country\'92s Corona-Virus statistics, please refer to Coronavirus Statistics User Story as all information relating to this topic has been documented there.
+
+If the concerned individual wants to know a country\'92s Corona-Virus statistics, please refer to Coronavirus Statistics User Story as all information relating to this topic has been documented there.
+
+If the concerned individual is concerned regarding travelling plans, please refer to Coronavirus Statistics User Story as all information relating to this topic has been documented there.
